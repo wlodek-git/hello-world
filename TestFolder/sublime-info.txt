@@ -1,0 +1,3 @@
+    # Sublime packages
+	http://www.hongkiat.com/blog/sublime-text-plugins/
+	https://packagecontrol.io/
